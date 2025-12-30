@@ -1,0 +1,27 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Data files (often large)
+*.csv
+*.h5
+*.pkl
+data/
+
+# Models (can be large)
+models/
+*.pth
+*.pt
+
+# IDE
+.vscode/
+.idea/
